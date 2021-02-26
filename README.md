@@ -1,2 +1,2 @@
-# unity-gamedev-qa
-Project solutions for Game Development Q&amp;A
+# Unity Game Dev Q&A
+Project solutions for game development questions from my YouTube videos.
