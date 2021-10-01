@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WallBlaster2_GreenRed
+  m_Controller: {fileID: 9100000, guid: d87958f5a51eff046b7becf74821fb3d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d2f9919761bc9d341b11bf4d6e01ade8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8a697e81eea787740b636e944cdc1920, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 321f0425929b6c247aaf0a91a3f10ed7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1f3f3083a1cce274fb2687dd5621ce53, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2b76185f71f52da49938e8cc180c6cae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e55e08eb3a154a34880f6f3bc407e1c4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc7ae59f3af779348bb4e3834e767526, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a990ee5f94a29e24fa6db63418c6aacf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eadb22751da38a0458b4392b57a40d30, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 340080d6430aeb945a0f803c3467e577, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2facbe2107e57114c8bd15c2c64e06ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0016892e68dd10e479f9d5c8df9d8079, type: 2}

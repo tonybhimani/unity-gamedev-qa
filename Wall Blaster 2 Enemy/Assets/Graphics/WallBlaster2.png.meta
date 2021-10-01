@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 559b57198c00eb04680bd7d902491442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1545827470132086401
+    second: WallBlaster2_GreenRed_0
+  - first:
+      213: 1030138312401995596
+    second: WallBlaster2_GreenRed_1
+  - first:
+      213: 2319569142246354562
+    second: WallBlaster2_GreenRed_2
+  - first:
+      213: -877156638105022611
+    second: WallBlaster2_GreenRed_3
+  - first:
+      213: 5611060613697539626
+    second: WallBlaster2_GreenRed_4
+  - first:
+      213: 7918193177908606979
+    second: WallBlaster2_GreenRed_5
+  - first:
+      213: -2141065699378497603
+    second: WallBlaster2_GreenRed_6
+  - first:
+      213: -3692305736941831235
+    second: WallBlaster2_GreenRed_7
+  - first:
+      213: 155353440738317538
+    second: WallBlaster2_GreenRed_8
+  - first:
+      213: 2822918358235084215
+    second: WallBlaster2_Bullet
+  - first:
+      213: 9207722027536919206
+    second: WallBlaster2_RedGreen_0
+  - first:
+      213: 3738856820918108916
+    second: WallBlaster2_RedGreen_1
+  - first:
+      213: -880555150960985463
+    second: WallBlaster2_RedGreen_2
+  - first:
+      213: -1551483276591531166
+    second: WallBlaster2_RedGreen_3
+  - first:
+      213: 8567175835800345324
+    second: WallBlaster2_RedGreen_4
+  - first:
+      213: 2219464468076535893
+    second: WallBlaster2_RedGreen_5
+  - first:
+      213: 3786211888695368167
+    second: WallBlaster2_RedGreen_6
+  - first:
+      213: 7708950001861063377
+    second: WallBlaster2_RedGreen_7
+  - first:
+      213: 6882617582849831822
+    second: WallBlaster2_RedGreen_8
+  - first:
+      213: 6497267095209882317
+    second: WallBlaster2_GreenOrange_0
+  - first:
+      213: 5113251898237969196
+    second: WallBlaster2_GreenOrange_1
+  - first:
+      213: 3735190078791432501
+    second: WallBlaster2_GreenOrange_2
+  - first:
+      213: 2606062561912417280
+    second: WallBlaster2_GreenOrange_3
+  - first:
+      213: -2258356077257494053
+    second: WallBlaster2_GreenOrange_4
+  - first:
+      213: -2607068255622467982
+    second: WallBlaster2_GreenOrange_5
+  - first:
+      213: -1382150015455847631
+    second: WallBlaster2_GreenOrange_6
+  - first:
+      213: 3919571466695905035
+    second: WallBlaster2_GreenOrange_7
+  - first:
+      213: -7499278411744166994
+    second: WallBlaster2_GreenOrange_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 93
+        width: 28
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f797cb62b1e1c8ae0800000000000000
+      internalID: -1545827470132086401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 32
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47cd345659cb4e00800000000000000
+      internalID: 1030138312401995596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 26
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2d8368d3c03020800000000000000
+      internalID: 2319569142246354562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 93
+        width: 25
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcf5d5fa6b3d3f0800000000000000
+      internalID: -877156638105022611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 93
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e80a446ed7edd40800000000000000
+      internalID: 5611060613697539626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 93
+        width: 24
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f9203eb213ed60800000000000000
+      internalID: 7918193177908606979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 93
+        width: 25
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db775cb17186942e0800000000000000
+      internalID: -2141065699378497603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 91
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf173be7b42ccc0800000000000000
+      internalID: -3692305736941831235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenRed_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 93
+        width: 24
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e497d9912de72200800000000000000
+      internalID: 155353440738317538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_Bullet
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5f7845a450d2720800000000000000
+      internalID: 2822918358235084215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 52
+        width: 28
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa0e1466668cf70800000000000000
+      internalID: 9207722027536919206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 32
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ced4287613e330800000000000000
+      internalID: 3738856820918108916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 52
+        width: 26
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a74dd61c3a7c3f0800000000000000
+      internalID: -880555150960985463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 52
+        width: 25
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b7dc71e26087ae0800000000000000
+      internalID: -1551483276591531166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 52
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea90352809b4e670800000000000000
+      internalID: 8567175835800345324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 52
+        width: 24
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ad4bac2f1dce10800000000000000
+      internalID: 2219464468076535893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 52
+        width: 25
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e95c0e07a35b8430800000000000000
+      internalID: 3786211888695368167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 50
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2fc24de21bbfa60800000000000000
+      internalID: 7708950001861063377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_RedGreen_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 52
+        width: 24
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833f96d938f38f50800000000000000
+      internalID: 6882617582849831822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 28
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b1d4cffdea2a50800000000000000
+      internalID: 6497267095209882317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 32
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e091a28be5f640800000000000000
+      internalID: 5113251898237969196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 26
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5393de6369f06d330800000000000000
+      internalID: 3735190078791432501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 25
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ceb31b7189a2420800000000000000
+      internalID: 2606062561912417280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 11
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f8beec15b8a0e0800000000000000
+      internalID: -2258356077257494053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11
+        width: 24
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eec6efb35d1dbd0800000000000000
+      internalID: -2607068255622467982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 25
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b147642ed91dce0800000000000000
+      internalID: -1382150015455847631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8a207b7d156630800000000000000
+      internalID: 3919571466695905035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBlaster2_GreenOrange_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 24
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabbb3474063de790800000000000000
+      internalID: -7499278411744166994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
